@@ -1,0 +1,10 @@
+{
+  "name": "Itrino",
+  "short_name": "Itrino",
+  "description": "Infrastructure for the AI era.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08172b",
+  "theme_color": "#1476c4",
+  "icons": [{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
